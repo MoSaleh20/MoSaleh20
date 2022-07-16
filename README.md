@@ -19,9 +19,9 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mosaleh20/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:16m.saleh@gmail.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.facebook.com/MohammadSaleh34/"><img  alt="Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/mosaleh20/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a target="_blank" href="mailto:16m.saleh@gmail.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a target="_blank" href="https://www.facebook.com/MohammadSaleh34/"><img  alt="Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <br>
